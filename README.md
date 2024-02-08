@@ -1,2 +1,2 @@
 # Ecommerce
-This is an example to an ecommerce Repo.
+This is an example to an ecommerce project.
